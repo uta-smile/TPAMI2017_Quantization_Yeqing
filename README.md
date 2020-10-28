@@ -5,9 +5,10 @@ Repository for Locality Sensitive Hash.
 
 ## Getting Start
 
-This repository contains the code for experiments in the following paper.
+This repository contains the code for experiments in the following papers.
 
 > Yeqing Li, Chen Chen, Wei Liu, and Junzhou Huang, "Sub-Selective Quantization for Large-Scale Image Search", AAAI Conference on Artificial Intelligence (AAAI), 2014.
+> Yeqing Li, Wei Liu, and Junzhou Huang, “Sub-Selective Quantization for Learning Binary Code in Large-Scale Image Search”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2017.
 
 Change directory to data and use the get_data.sh to download the data.
 
