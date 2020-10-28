@@ -30,11 +30,14 @@ The "Main_Show.m" is used to display the stored results.
 - Tiny1M (eightyMsubset_hash_final.mat, eightyMsubset_gnd.mat)
 
 ##Bibtex
-
-	@inproceedings{li2014subselective,
-	  title={Subselective quantization for large-scale image search},
-	  author={Li, Yeqing and Chen, Chen and Liu, Wei and Huang, Junzhou},
-	  booktitle={Proc. AAAI Conference on Artificial Intelligence (AAAI)},
-	  year={2014}
-	}
+@ARTICLE{7936671,
+  author={Y. {Li} and W. {Liu} and J. {Huang}},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Sub-Selective Quantization for Learning Binary Codes in Large-Scale Image Search}, 
+  year={2018},
+  volume={40},
+  number={6},
+  pages={1526-1532},
+  doi={10.1109/TPAMI.2017.2710186}}
+	
 
