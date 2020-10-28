@@ -30,7 +30,8 @@ The "Main_Show.m" is used to display the stored results.
 - Tiny1M (eightyMsubset_hash_final.mat, eightyMsubset_gnd.mat)
 
 ##Bibtex
-@ARTICLE{7936671,
+
+`@ARTICLE{7936671,
   author={Y. {Li} and W. {Liu} and J. {Huang}},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
   title={Sub-Selective Quantization for Learning Binary Codes in Large-Scale Image Search}, 
@@ -38,6 +39,6 @@ The "Main_Show.m" is used to display the stored results.
   volume={40},
   number={6},
   pages={1526-1532},
-  doi={10.1109/TPAMI.2017.2710186}}
+  doi={10.1109/TPAMI.2017.2710186}}`
 	
 
